@@ -266,9 +266,14 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   font-weight: var(--font-body-weight);
 }
 
-h1,h2,h3 {
+h1 {
   font-family: 'Merriweather', serif!important;
   text-transform: uppercase!important;
+  font-weight: 900!important;
+}
+
+h2 {
+  text-transform: uppercase;
   font-weight: 900!important;
 }
 
