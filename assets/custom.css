@@ -4,6 +4,7 @@
 .hero-wrap {
     min-height: 550px;
     max-height: calc(100vh - 212px);
+    padding: 1.5rem;
 }
 
 
