@@ -1,9 +1,9 @@
 .flex {display: flex;}
 
 /* Primary Banner Styling */
-.primary-banner-img-wrap img {
-    border-radius: 10px;
-    object-fit: contain;
+.hero-wrap {
+    min-height: 550px;
+    max-height: calc(100vh - 212px);
 }
 
 
